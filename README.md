@@ -25,8 +25,6 @@ This README provides installation steps, an overview of the code structure, deve
 - API
 - Testing
 - Deployment
-- Contributing
-- License
 - Acknowledgements
 
 ---
